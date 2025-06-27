@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useEffect } from 'react';
 import { Users, MapPin, MessageCircle, Calendar, Wine, Search, Plus, Heart, Star, Clock, Map, User, Home, Settings } from 'lucide-react';
 
